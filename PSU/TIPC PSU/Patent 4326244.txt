@@ -1,2 +1,21 @@
 https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html
 
+
+
+Q2	B561
+Q5	NTE298
+Q6	D467
+Q1	D467
+Q4	D467
+Q3	B561
+
+
+Q1	D467	NPN
+Q2	B561	PNP
+Q3	B561	PNP
+Q4	D467	NPN
+Q5	NTE298	PNP
+Q6	D467	NPN
+Q7
+Q8	B561	PNP
+Q9	
